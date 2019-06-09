@@ -1,10 +1,13 @@
 export default {
 	nav: {
 		home: '西柚子官网',
-		components: '开源项目',
-		components_1: 'DeAndroid',
+		project: '开源项目',
+		project_1: 'DeAndroid',
+		scaffold: '脚手架',
+		scaffold_1: 'ev-cli3',
+		batch:'批处理',
+		batch_1:'createShortcut',
 		documents: '在线文档',
-		faqs: '疑难解答',
 		community: '交流社区',
 		tips: '点我切换语言',
 		text: '语言'
