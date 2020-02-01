@@ -2,11 +2,9 @@ export default {
 	nav: {
 		home: 'Home',
 		project: 'Project',
-		project_1: 'DeAndroid',
+		project_1: 'None',
 		scaffold: 'Scaffold',
-		scaffold_1: 'ev-cli3',
-		batch:'Batch',
-		batch_1:'createShortcut',
+		scaffold_1: 'webpack4-devkit',
 		documents: 'Documents',
 		community: 'Community',
 		tips: 'Click me to toggle language',

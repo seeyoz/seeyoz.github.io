@@ -2,11 +2,9 @@ export default {
 	nav: {
 		home: '西柚子官网',
 		project: '开源项目',
-		project_1: 'DeAndroid',
+		project_1: '暂无开源项目',
 		scaffold: '脚手架',
-		scaffold_1: 'ev-cli3',
-		batch:'批处理',
-		batch_1:'createShortcut',
+		scaffold_1: 'webpack4-devkit',
 		documents: '在线文档',
 		community: '交流社区',
 		tips: '点我切换语言',
