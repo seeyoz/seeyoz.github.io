@@ -4,7 +4,7 @@ export default {
 		project: 'Project',
 		project_1: 'None',
 		scaffold: 'Scaffold',
-		scaffold_1: 'webpack4-devkit',
+		scaffold_1: 'webpack4-dev-cli',
 		documents: 'Documents',
 		community: 'Community',
 		tips: 'Click me to toggle language',

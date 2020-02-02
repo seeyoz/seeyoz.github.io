@@ -4,7 +4,7 @@ export default {
 		project: '开源项目',
 		project_1: '暂无开源项目',
 		scaffold: '脚手架',
-		scaffold_1: 'webpack4-devkit',
+		scaffold_1: 'webpack4-dev-cli',
 		documents: '在线文档',
 		community: '交流社区',
 		tips: '点我切换语言',
